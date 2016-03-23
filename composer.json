@@ -1,0 +1,17 @@
+{
+    "name": "jewei/yee",
+    "description": "Learning PHP framework by building a PHP framework.",
+    "type": "Project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jewei Mak",
+            "email": "jewei.mak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/http-foundation": "^3.0",
+        "symfony/routing": "^3.0"
+    }
+}
