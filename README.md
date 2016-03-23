@@ -2,7 +2,7 @@
 
 ## Why
 
-Read this excellent article on [why would you like to create your own framework](http://symfony.com/doc/current/create_framework/introduction.html).
+Read this excellent article on [why would you like to create your own framework](http://symfony.com/doc/current/create_framework/introduction.html) and [Flat PHP](http://symfony.com/doc/current/book/from_flat_php_to_symfony2.html).
 
 Benefits of using framework includes:
 
